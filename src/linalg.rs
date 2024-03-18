@@ -1,19 +1,32 @@
-fn matrix_create() {
+
+struct matrix {
+    index: Vec<f32>
+    rows: i32
+    columns: i32
+}
+
+impl matrix {
+    fn matrix_create() {
+
+    }
+
+    fn matrix_flat() {
+
+    }
+    
+    fn matrix_load() {
+    
+    }
+    
+    fn matrix_save() {
+    
+    }
+    
+    fn dotprod() {
+    
+    }
 
 }
 
-fn matrix_flat() {
 
-}
 
-fn matrix_load() {
-
-}
-
-fn matrix_save() {
-
-}
-
-fn dotprod() {
-
-}
