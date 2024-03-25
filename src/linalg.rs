@@ -1,6 +1,6 @@
 
 struct matrix {
-    index: Vec<f32>
+    content: Vec<f32>
     rows: i32
     columns: i32
 }
